@@ -1,0 +1,5 @@
+keyboard==0.13.5
+plyer==2.1.0
+python-gemini-api==2.4.11
+selenium==4.20.0
+webdriver-manager==4.0.1
